@@ -1,5 +1,5 @@
 [functions]
-  directory = "netlify/functions"
+  directory = "eye-centre-rx/netlify/functions"
 
 [[headers]]
   for = "/.netlify/functions/*"
